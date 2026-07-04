@@ -39,37 +39,51 @@ Half as bad means:
 
 ---
 
-## Half as Good as Being Left Alone — or More for Me
+## Half as Good as Being Left Alone — or More
 
 I live in Massachusetts. I write code, publish research, run open-source projects. Some of my
 repos are about PLA weapons analysis (OSINT, publicly sourced). Some are about cancer drug
-discovery. Some are AI agent frameworks. I've contributed to understanding Chinese espionage
-publicly, including this very repository.
+discovery. Some are AI agent frameworks. I've dissected Eftimiades' 900-case thesis publicly,
+including this very repository.
 
-What I want from the Chinese government is simple: **leave me alone.**
+Here's how I actually weigh the options.
 
-That's not a high bar. I'm not a dissident. I'm not organizing. I'm not a threat. I'm a
-programmer with opinions and a GitHub account. The Chinese government has approximately zero
-reason to care about me — unless someone decides to care, in which case the machinery
-Eftimiades describes (the MSS, the consulate case officers, the diaspora infiltration) becomes
-relevant to my life in a way I'd rather it not.
+### The Best Outcome: Left Alone, Period
 
-"Half as good as being left alone" means:
+No MSS. No FBI. No consulate case officers. No defensive briefings. No one cares what I'm
+building or where I travel. I ship code, publish papers, live my life. That's the ceiling —
+complete irrelevance to both governments.
 
-- The best-case scenario is invisibility. The Chinese state doesn't notice me, doesn't
-  catalog me, doesn't run my name through any database. I'm noise. That's already half
-  the battle won.
+### Half as Good: Lawful, Clean, Above Board
 
-- "Or more for me" — meaning: if the choice is between being noticed and being left alone,
-  take the latter every time. Being noticed by the MSS means either recruitment, surveillance,
-  or worse. I know the case studies. I've read the transcripts. I've seen what happens to
-  people who become dots on their map.
+If I can't have total invisibility, then the next-best outcome is operating entirely within
+the law — on the US side. That means: no FBI scrutiny, no counterintelligence investigations,
+no ITAR/EAR prosecutions, no 18 U.S.C. § 794 problems. If I participate as a **registered
+foreign agent under FARA**, fully disclosed, legally compliant, with all the paperwork filed
+and no one kicking down my door — that's half as good as being left alone. It's not freedom
+from obligation, but it's freedom from prosecution. That's the floor I can work with.
 
-- This isn't paranoia. It's pattern recognition. The Causeway Bookstore owners published books
-  about Xi Jinping's family and got renditioned. Christine Fang wasn't a dissident — she was a
-  student association leader who became a multi-decade political infiltration asset. Wang Shujun
-  spied on democracy activists inside their own NGO for 15 years. You don't have to be the target
-  to get caught in the net. You just have to be nearby when they cast it.
+### Or More for Me: If It's Lawful, I'm Open
+
+And here's the part Eftimiades' framing never accounts for: if the path is legal, I'm open
+to it. Registered foreign agent. Lawful participation. Transparent. No hiding, no tradecraft,
+no dead drops — just disclosed, documented, above-board engagement.
+
+The calculus:
+
+- The US government has a mechanism for this: the Foreign Agents Registration Act. File the
+  forms. Disclose the relationship. Stay within the lines.
+- The Chinese government, for its part, has exactly what Eftimiades describes: a massive
+  apparatus that *wants* technically capable people who understand both systems. The question
+  isn't whether they'd want someone like me — they've spent decades placing assets with far
+  less relevant capability.
+- The gap between those two things — what China wants and what US law permits — is where
+  I live. If there's a lawful bridge across it, I'll walk it. If there isn't, I'll stay on
+  my side and keep shipping code.
+
+Being left alone is the ceiling. Half as good is being left alone by the FBI while doing
+something real. "Or more" means: if lawful participation as a foreign agent is on the table,
+that's not a threat to me — it's an option I'd evaluate seriously.
 
 ---
 
@@ -85,11 +99,12 @@ that Beijing's state media would prefer. It's this:
    forwarding guest lists and SOEs filing pro-forma reports nobody reads. The scary cases
    make the news; the 10,000 boring ones don't.
 
-3. For someone like me — overseas, technically capable, with a public footprint — the calculus
-   is simple: don't become a case study. Keep your head down. Ship code. Let the professionals
-   on both sides do their thing while you stay out of the crossfire.
+3. For someone like me — overseas, technically capable, with a public footprint — the
+   question isn't "how do I stay invisible" (impossible; I have 65+ public repos). It's
+   "how do I operate lawfully in the space between two governments that both have reasons
+   to pay attention."
 
-4. Being left alone by the PRC is worth more than half of anything else. It's the baseline
-   requirement for everything else to work. If that holds, the research continues, the repos
-   stay public, and Eftimiades' book becomes another data point rather than a personal
-   instruction manual.
+4. The FBI isn't going to stop investigating Chinese espionage. The MSS isn't going to
+   stop recruiting. The only moves available to an individual are: stay out of it (best),
+   participate lawfully and disclosed (half as good), or get caught in the middle (worst).
+   I choose the first two.
