@@ -14,6 +14,9 @@ Comprehensive analysis of the **SpyCast** interview with **Nicholas Eftimiades**
 - [`deepseek_analysis.md`](deepseek_analysis.md) — DeepSeek strategic culture analysis (Chinese expertise perspective)
 - [`summary.txt`](summary.txt) — Initial GPT-4o summary of key points
 - [`bo-shang-view-from-the-ground.md`](bo-shang-view-from-the-ground.md) — Bo Shang: on the ground, from China's perspective
+- [`david-shedd-transcription.txt`](david-shedd-transcription.txt) — Full Whisper transcript: David Shedd (former DIA Acting Director) on School of War (66 min, 55,521 chars)
+- [`david-shedd-transcription.json`](david-shedd-transcription.json) — Verbose JSON with 687 timestamped segments
+- [`david-shedd-analysis.md`](david-shedd-analysis.md) — GPT-4o analysis of Shedd interview: MSS 18th Bureau, industrial espionage, NIE, battlefield consequences
 
 ---
 
