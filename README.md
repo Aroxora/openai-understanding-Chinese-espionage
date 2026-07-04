@@ -13,6 +13,7 @@ Comprehensive analysis of the **SpyCast** interview with **Nicholas Eftimiades**
 - [`openai_analysis.md`](openai_analysis.md) — GPT-4o structured intelligence analysis (Western intelligence perspective)
 - [`deepseek_analysis.md`](deepseek_analysis.md) — DeepSeek strategic culture analysis (Chinese expertise perspective)
 - [`summary.txt`](summary.txt) — Initial GPT-4o summary of key points
+- [`bo-shang-view-from-the-ground.md`](bo-shang-view-from-the-ground.md) — Bo Shang: on the ground, from China's perspective
 
 ---
 
